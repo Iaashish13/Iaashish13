@@ -1,6 +1,8 @@
 ### Hola!! Namaste!! I am Aashish Regmi 👋
 
+
 - 🌱 I’m currently learning Flutter
+- 👨‍🔧 Doing e-commerce app now.
 - 💬 Ask me about Fluttter and upcoming/recent tech gadgets/devices.
 - 📫 How to reach me: Twitter- @jungali_op
 - 😄 Pronouns: He/His
