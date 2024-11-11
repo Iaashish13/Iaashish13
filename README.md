@@ -1,7 +1,7 @@
 ### Hola!! Namaste!! I am Aashish Regmi 👋
 
 
-- 🌱 I’m currently learning Flutter and React Native
+- 🌱 I’m currently learning Flutter and Swift
 - 👨‍🔧 Working on my app Controls and Sensi
 - 🌐 Trying writing blog at [Personal Site](https://aashishregmi.com.np/).
 - 💬 Ask me about Fluttter and upcoming/recent tech gadgets/devices.
